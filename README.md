@@ -9,3 +9,5 @@
 
 `node GoogleTranslate YOUR_GOOGLE_API_KEY en.json fr,et,nl`
 
+
+All the translated files goes to '/tmp/' folder 
