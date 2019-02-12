@@ -1,0 +1,16 @@
+{
+    "settings" : {
+        "title" : "SETTINGS",
+        "language" : "Language",
+        "change_password" : "Change Password",
+        "edit_password" : "Edit Profile",
+        "restore_purchases" : "Restore Purchases",
+        "about" : "About Us",
+        "privacy" : "Privacy Policy",
+        "contact" : "Contact Us",
+        "logout" : "Logout", 
+        "cancel" : "Cancel",
+        "ok" : "OK"
+    }
+    
+}
