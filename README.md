@@ -2,7 +2,7 @@
 
 ## Translate JSON structures using google translation API
 
-
+`npm install`
 
 `node GoogleTranslate YOUR_GOOGLE_API_KEY JSON_FILE.json LANGUAGE_CODE,LANGUAGE_CODE`
 
