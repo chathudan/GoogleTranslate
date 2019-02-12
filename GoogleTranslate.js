@@ -49,7 +49,7 @@ if (process.argv.length >= 5) {
     }
 
     Promise.all(_.reduce(destinationCodes, (sum, languageKey) => {
-        const fileName = _.template('/tmp/<%= languageKey %>-<%= timeStamp %>.json')({
+        const fileName = _.template('translated/<%= languageKey %>-<%= timeStamp %>.json')({
             languageKey,
             timeStamp: moment().unix()
         });

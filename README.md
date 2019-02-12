@@ -9,5 +9,6 @@
 
 `node GoogleTranslate YOUR_GOOGLE_API_KEY en.json fr,et,nl`
 
+Lang Codes https://ctrlq.org/code/19899-google-translate-languages
 
-All the translated files goes to '/tmp/' folder 
+All the translated files go to 'translated' folder 
